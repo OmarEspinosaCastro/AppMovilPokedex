@@ -21,6 +21,9 @@ i. Menú estilo tabs en la parte inferior. Debe de contar con tres tabs:
 - 3. Contador
 ii. Header en la parte superior con un botón de navegación hacia atrás, 
 en la pantalla que lo requiera.
+
+![](https://github.com/OmarEspinosaCastro/AppMovilPokedex/blob/master/tres.jpeg)
+
 #### 2. Tab Lista de pokémons
 a. Elementos
 
@@ -53,6 +56,10 @@ los siguientes datos del pokémon: "name", todos los "types", los
 iv. El listado comenzará con cero elementos y se irá poblando cada que 
 el usuario agregue un pokémon
 
+![](https://github.com/OmarEspinosaCastro/AppMovilPokedex/blob/master/cuatro.jpeg)
+
+![](https://github.com/OmarEspinosaCastro/AppMovilPokedex/blob/master/siete.jpeg)
+
 #### 3. Agregar pokémon
 a. Descripción
 
@@ -68,7 +75,7 @@ b. Elementos
 i. Listado de los primeros 20 pokémons que regresa el servicio.
 ii. Modal o nueva vista para ver el detalle del pokémon
 
-#### 1. Botón para agregarlo al pokédex
+ 1. Botón para agregarlo al pokédex
 
 c. Criterios de aceptación
 
@@ -78,6 +85,8 @@ mostrar un modal que contenga los siguientes datos del pokémon:
 
 ii. El pokémon se debe agregar al listado, el cual debe guardarse en el 
 storage local de la aplicación.
+
+![](https://github.com/OmarEspinosaCastro/AppMovilPokedex/blob/master/seis.jpeg)
 
 #### 4. Tab Perfl
 a. Elementos
@@ -95,6 +104,8 @@ b. Criterios de aceptación
 i. El botón de editar perfl deberá llevar al usuario a una pantalla donde 
 se encuentre la información del perfl en elementos tipo inputs para 
 que pueda editarlos.
+
+![](https://github.com/OmarEspinosaCastro/AppMovilPokedex/blob/master/dos.jpeg)
 
 #### 5. Editar perfl
 a. Elementos
@@ -118,6 +129,8 @@ La reducción se hará a un tamaño de 350x350 px.
 ii. La información debe guardarse en el storage local de la 
 aplicación.
 
+![](https://github.com/OmarEspinosaCastro/AppMovilPokedex/blob/master/uno.jpeg)
+
 #### 6. Tab Contador de pokémons
 a. Elementos
 
@@ -131,6 +144,9 @@ b. Criterios de aceptación
 i. Este contador deberá de ser un componente aislado a los demás el cual 
 debe utilizar un manejador de estados como zustand, redux, storeon.
 
+![](https://github.com/OmarEspinosaCastro/AppMovilPokedex/blob/master/cinco.jpeg)
+
+
 ### Criterios de aceptación generales
 
 - Framework de programación: React Native (No expo)
@@ -142,6 +158,8 @@ debe utilizar un manejador de estados como zustand, redux, storeon.
 - Se deberá compartir el código fuente en un repositorio público de: Github, Gitlab o Bitbucket.
 - Utilizar manejador de estados que afecte a la tercera tab del contador
 - Para la navegación utilizar React Navigation
+
+
 ## Authors
 
 - [@OmarEspinosa](https://www.github.com/)
